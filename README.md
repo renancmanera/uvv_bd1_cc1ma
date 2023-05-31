@@ -10,11 +10,7 @@ Dentro da pasta pset1 estão os arquivos pedidos pelo professor, são eles:
 - Script, contendo o código da implementação do postgres.
 
 ## Contato
-
 - Aluno: Renan Carvalho Manera;
-
 - Turma: CC1Ma;
-
 - Matrícula: 202308516;
-
 - Email: rcarvalhomanera@gmail.com 
