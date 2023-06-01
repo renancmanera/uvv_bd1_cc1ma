@@ -6,7 +6,7 @@ Este repositório contém o trabalho prático da disciplina de Design e Desenvol
 ## Conteúdo
 Dentro da pasta pset1 estão os arquivos pedidos pelo professor, são eles:
 - As tabelas no architect em pdf;
-- O código do diagrama do archictet;
+- O código do diagrama do archictect;
 - Script, contendo o código da implementação do postgres.
 
 ## Contato
